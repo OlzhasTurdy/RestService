@@ -1,0 +1,8 @@
+февр. 15, 2025 11:05:26 AM com.example.util.LoggerUtil log
+INFO: POST /pets called - Added pet: Buddy (ID: 1)
+февр. 15, 2025 11:07:06 AM com.example.util.LoggerUtil log
+INFO: GET /pets called - Returned all pets
+февр. 15, 2025 11:19:03 AM com.example.util.LoggerUtil log
+INFO: POST /pets called - Added pet: Buddy (ID: 2)
+февр. 15, 2025 11:35:12 AM com.example.util.LoggerUtil log
+INFO: POST /pets called - Added pet: Buddy (ID: 2)
